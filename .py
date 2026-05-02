@@ -1,3 +1,8 @@
+#Nome do usuário
+nome = "Lucas Oliveira"
+curso = "Análise e Desenvolvimento de Sistemas"
+print(f"Olá, meu nome é {nome} e estou cursando {curso}.")
+
 #Programa se a pessoa pode votar ou não
 
 idade = int(input("Qual a sua idade atual?"))
@@ -65,6 +70,6 @@ while senha != "madagascar":
 print("Acesso permitido.")
 
 #numeros pares de 1 a 50
-for i in range(1, 51):
+for i in range(1, 51):  
     if i % 2 == 0:
         print(i)
