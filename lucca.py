@@ -1,5 +1,5 @@
 #Nome do usuário
-nome = "Lucas Oliveira da Silvaa"
+nome = "Lucas Oliveira da Silva."
 curso = "Análise e Desenvolvimento de Sistemas"
 print(f"Olá, meu nome é {nome} e estou cursando {curso}.")
 
